@@ -85,4 +85,5 @@ footer {
   left: -0.2em;
   font-size: 4em;
   opacity: 0.15;
+  overflow: hidden;
 }
