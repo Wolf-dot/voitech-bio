@@ -1,8 +1,8 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
-  "theme": "glitch",
+  "metaTitle": "Wojciech Belka",
+  "metaDescription": "Avid hobby collectioner, creative and technical writer, programmer & cat father of four.",
+  "name": "Wojciech Belka",
+  "theme": "voitech",
   "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
   "links": [
     {
@@ -12,8 +12,8 @@
       "altText": "Glitch blue generative art"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "url": "https://cybersec-project-1.netlify.app/",
+      "text": "C2 with Reverse-Proxy in Docker & detection with WireShark",
       "img": ""
     },
     {
