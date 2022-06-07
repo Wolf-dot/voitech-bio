@@ -52,6 +52,7 @@ START Page structure and element resets
 body {
   font-family: var(--font-family);
   background-color: var(--color-bg);
+  background-image: url("https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/bg-stars?v=1654613424246");
   text-align: center;
 }
 .wrapper {

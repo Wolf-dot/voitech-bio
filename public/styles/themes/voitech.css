@@ -32,8 +32,9 @@ Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
   --font-family-list: Tahoma, sans-serif;
 }
 .body {
-  background-image: url("https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/bg-stars?v=1654613424246");
+  background-image: url("https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/bookshelf-lion.jpeg?v=1654611205703");
 }
+
 p {
   color: #ffffff;
 }
@@ -83,5 +84,5 @@ footer {
   top: -0.2em;
   left: -0.2em;
   font-size: 4em;
-  opacity: 0.1;
+  opacity: 0.15;
 }
