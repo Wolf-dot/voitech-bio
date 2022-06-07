@@ -1,0 +1,87 @@
+/******************************************************************************
+TIP: Get started creating your own theme here
+
+- Set values for the main site variables for properties like fonts and colors
+- You can also add any style rules you like
+
+- Make sure you have `custom-theme` in settings.json theme property
+- (Update it if you changed the CSS file name)
+
+:root {
+  --font-family: Arial, sans-serif;
+  --font-family-header: Arial, sans-serif;
+  --font-family-list: Arial, sans-serif;
+  --color-bg: violet;
+  --color-bg-alt: aqua;
+  --color-text-main: yellow;
+  --color-primary: blue;
+}
+
+******************************************************************************
+TIP: Menu theme displays your links with images from settings.json
+
+Edit / copy or create your own CSS file in public/styles/themes
+Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
+******************************************************************************/
+
+:root {
+  --color-bg: #00AABD;
+  --color-text-main: #007382;
+  --font-family: Tahoma, sans-serif;
+  --font-family-header: Tahoma, sans-serif;
+  --font-family-list: Tahoma, sans-serif;
+}
+.body {
+  background-image: url("https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fbgmenu.png?v=1634314325046");
+}
+p {
+  color: #ffffff;
+}
+
+ul.link-list li a {
+  display: flex;
+  opacity: 0.8;
+}
+ul.link-list li a:link,
+ul.link-list li a:visited {
+  background-color: var(--color-primary);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-family: Tahoma, Tahoma, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  min-height: 4.5rem;
+}
+ul.link-list li a span {
+  text-align: justify;
+  line-height: 1.2em;
+  flex-grow: 1;
+  text-align: center;
+}
+ul.link-list li a:hover {
+  background-color: var(--color-bg);
+  color: white;
+}
+ul.link-list li a img {
+  border-radius: 0.2rem;
+  width: 3rem;
+  overflow: visible;
+}
+.social-profile-icon path:hover {
+  fill: var(--color-bg);
+}
+
+footer {
+  color: #ffffff;
+  font-size: 0.7em;
+}
+
+#wallpaper {
+  width: 105%;
+  z-index: -100;
+  position: fixed;
+  top: -0.2em;
+  left: -0.2em;
+  font-size: 4em;
+  opacity: 0.1;
+}
