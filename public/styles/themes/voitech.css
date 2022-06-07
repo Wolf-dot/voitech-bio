@@ -23,7 +23,9 @@ TIP: Menu theme displays your links with images from settings.json
 Edit / copy or create your own CSS file in public/styles/themes
 Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
 ******************************************************************************/
-
+html{
+  height: 100%;
+}
 :root {
   --color-bg: #00AABD;
   --color-text-main: #007382;
