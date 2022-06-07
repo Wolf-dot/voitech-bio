@@ -6,20 +6,24 @@
   "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
-    },
-    {
       "url": "https://cybersec-project-1.netlify.app/",
-      "text": "Check out my CyberSecurity project blog 👾",
-      "img": "https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/merlin.png?v=1654611578146"
+      "text": "Check out my big Cyber Security project",
+      "img": "https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/merlin.png?v=1654611728390"
     },
     {
       "url": "https://www.goodreads.com/user/show/137061949-fifteen-owls-for-1-50",
-      "text": "See what I'm reading on GoodReads 📚",
+      "text": "See what I'm reading on GoodReads",
       "img":"https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/bookshelf-lion.jpeg?v=165461120570359236"
+    },
+    {
+      "url": "https://glitch.com/@Wolf-dot",
+      "text": "See my apps live on Glitch",
+      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Ftouch-icon.png?v=1633521972305"
+    },
+    {
+      "url": "https://github.com/Wolf-dot",
+      "text": "Check me out on GitHub",
+      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Ftouch-icon.png?v=1633521972305"
     }
   ],
   "social": {
