@@ -26,15 +26,13 @@ Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
 html{
   height: 100%;
 }
+
 :root {
   --color-bg: #00AABD;
   --color-text-main: #007382;
   --font-family: Tahoma, sans-serif;
   --font-family-header: Tahoma, sans-serif;
   --font-family-list: Tahoma, sans-serif;
-}
-.body {
-  background-image: url("https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/bookshelf-lion.jpeg?v=1654611205703");
 }
 
 p {
@@ -86,6 +84,6 @@ footer {
   top: -0.2em;
   left: -0.2em;
   font-size: 4em;
-  opacity: 0.15;
+  opacity: 0.1;
   overflow: hidden;
 }
