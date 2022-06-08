@@ -25,31 +25,5 @@
       "text": "Chaotic commits on GitHub",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Ftouch-icon.png?v=1633521972305"
     }
-  ],
-  "social": {
-    "glitch": "https://glitch.com/",
-    "spotify": "",
-    "substack": "",
-    "dev": "https://dev.to/glitch",
-    "facebook": "",
-    "github": "https://github.com/glitchdotcom",
-    "gitlab": "",
-    "hashnode": "",
-    "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
-    "medium": "",
-    "patreon": "",
-    "pinterest": "",
-    "twitter": "https://twitter.com/glitch",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "twitch": "",
-    "tiktok": "",
-    "podcast": "",
-    "soundcloud": "",
-    "bandcamp": "",
-    "mastodon": "",
-    "stackoverflow": "",
-    "kofi": "",
-    "email": "support@glitch.com"
-  }
+  ]
 }
