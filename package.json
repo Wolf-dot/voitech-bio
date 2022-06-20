@@ -1,7 +1,7 @@
 {
-  "name": "glitch-in-bio",
+  "name": "Voitech-bio",
   "version": "0.0.3",
-  "description": "Your very own link-in-bio app.",
+  "description": "My bio page.",
   "main": "index.html",
   "scripts": {
     "start": "vite",
