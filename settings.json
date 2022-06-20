@@ -7,27 +7,27 @@
   "links": [
     {
       "url": "https://r-proxy-rat.netlify.app",
-      "text": "colossal Cyber Security project blog",
+      "text": "Red Team C2 + Reverse Proxy in Docker",
       "img": "https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/merlin.png?v=1654611728390"
     },    
     {
       "url": "https://carnage-blog.netlify.app/",
-      "text": "crimson Carnage TryHackMe walkthrough blog",
+      "text": "TryHackMe Carnage room walkthrough",
       "img": "https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/carnage.PNG?v=1655377827380"
     },
     {
       "url": "https://www.goodreads.com/user/show/137061949-fifteen-owls-for-1-50",
-      "text": "rapid reading on GoodReads",
+      "text": "My books on GoodReads",
       "img":"https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/bookshelf-lion.jpeg?v=165461120570359236"
     },
     {
       "url": "https://glitch.com/@Wolf-dot",
-      "text": "alive apps on Glitch",
+      "text": "Little live apps on Glitch",
       "img":"https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/glitch.PNG?v=1654708819870"
     },
     {
       "url": "https://github.com/Wolf-dot",
-      "text": "chaotic commits on GitHub",
+      "text": "Chaotic commits on GitHub",
       "img":"https://cdn.glitch.global/255de4b4-1f85-49f0-b08d-5345d7b4ff44/commits.PNG?v=1654708743381"
     }
   ]
